@@ -2,6 +2,11 @@
 
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
 
+⚡ Things I love besides coding:
+Playing games 🎮
+Watching movies and anime 📺
+Culinary 🍳
+
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
 <p align="center">
