@@ -5,8 +5,8 @@
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
  ⚡ Things I love besides coding:<br/>
 
-<ul style="list-style-type:disc;">
-  <li>Reading 📖</li><br>
+<ul style="list-style-type:disc;"><br>
+  <li>Reading 📖</li>
   <li>Writing ✍</li>
   <li>Cooking 🍳</li>
   <li> Basketball 🏀</li>
