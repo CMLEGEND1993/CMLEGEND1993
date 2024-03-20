@@ -1,10 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
-
-<h2> 👋 Hi, I'm Chrysovalantis! </h2>
-
 <html>
 <body>
-
+<h2> 👋 Hi, I'm Chrysovalantis! </h2>
 <h2>⚡ Things I love besides coding:</h2>
 
 <ul style="list-style-type:disc;">
