@@ -2,8 +2,8 @@
 
 <html>
 <body>
-<h2> 👋 Hi, I'm Chrysovalantis! </h2><br/>
-⚡ Things I love besides coding:
+<h2> 👋 Hi, I'm Chrysovalantis! </h2>
+⚡ Things I love besides coding:<br>
 
 <ul style="list-style-type:disc;">
   <li>Reading 📖</li>
