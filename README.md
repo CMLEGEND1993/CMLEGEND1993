@@ -4,7 +4,7 @@
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
  ⚡ Things I love besides coding:
-<ul style="list-style-type:disc;"><br>
+<ul style="list-style-type:disc;">
   <li>Reading 📖</li>
   <li>Writing ✍</li>
   <li>Cooking 🍳</li>
