@@ -4,7 +4,7 @@
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
  📊 I'm a Data Analyst.<br>
- 🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS using POWER BI or TABLEAU.<br>
+ 🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL, and data visualization projects using POWER BI or TABLEAU.<br>
  📫 You can reach out to me via LinkedIn (www.linkedin.com/in/chrysovalantis-milionis-61456619a) <br> 
  ⚡ Things I love besides coding:
 <ul style="list-style-type:disc;">
