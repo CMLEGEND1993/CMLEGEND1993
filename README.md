@@ -3,10 +3,10 @@
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
 
 ⚡ Things I love besides coding:<br>
-1️⃣Reading 📖 <br>
-2️⃣Writing ✍<br>
-3️⃣Cooking 🍳<br>
-4️⃣Basketball 🏀 
+1️⃣ Reading 📖 <br>
+2️⃣ Writing ✍<br>
+3️⃣ Cooking 🍳<br>
+4️⃣ Basketball 🏀 
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
