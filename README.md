@@ -6,7 +6,7 @@
  ⚡ Things I love besides coding:<br/>
 
 <ul style="list-style-type:disc;">
-  <li>Reading 📖</li>
+  <li>Reading 📖</li><br>
   <li>Writing ✍</li>
   <li>Cooking 🍳</li>
   <li> Basketball 🏀</li>
