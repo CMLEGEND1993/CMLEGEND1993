@@ -2,11 +2,20 @@
 
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
 
-⚡ Things I love besides coding:<br>
-1️⃣ Reading 📖 <br>
-2️⃣ Writing ✍<br>
-3️⃣ Cooking 🍳<br>
-4️⃣ Basketball 🏀 
+<html>
+<body>
+
+<h2>⚡ Things I love besides coding:</h2>
+
+<ul style="list-style-type:disc;">
+  <li>Reading 📖</li>
+  <li>Writing ✍</li>
+  <li>Cooking 🍳</li>
+  <li> Basketball 🏀</li>
+</ul>  
+
+</body>
+</html>
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
