@@ -1,6 +1,5 @@
 <!-- Level 1: Simple bio and stats -->
-<html>
-<body>
+
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
 <h2>⚡ Things I love besides coding:</h2>
 
@@ -10,9 +9,6 @@
   <li>Cooking 🍳</li>
   <li> Basketball 🏀</li>
 </ul>  
-
-</body>
-</html>
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
