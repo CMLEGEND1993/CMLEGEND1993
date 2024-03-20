@@ -3,9 +3,9 @@
 <html>
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
- 📊 I'm a Data Analyst.
- 🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU.
- 📫 You can reach out to me via LinkedIn (in/chrysovalantis-milionis-61456619a)  
+ 📊 I'm a Data Analyst.<br>
+ 🤝 I’m looking to collaborate on PYTHON, SQL, EXCEL, and DATA VISUALIZATION PROJECTS Using POWER BI or TABLEAU.<br>
+ 📫 You can reach out to me via LinkedIn (in/chrysovalantis-milionis-61456619a) <br> 
  ⚡ Things I love besides coding:
 <ul style="list-style-type:disc;">
   <li>Reading 📖</li>
