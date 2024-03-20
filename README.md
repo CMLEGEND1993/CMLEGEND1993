@@ -2,7 +2,7 @@
 
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
 
-⚡ Things I love besides coding:
+⚡ Things I love besides coding:<br>
 Playing games 🎮
 Watching movies and anime 📺
 Culinary 🍳
