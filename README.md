@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-👋 Hi, I'm Chrysovalantis!
+<h2👋 Hi, I'm Chrysovalantis! </h2>
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
