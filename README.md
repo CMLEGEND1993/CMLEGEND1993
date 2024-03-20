@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<h2> 👋 Hi, I'm Chrysovalantis! </h2>
+<h2> 👋 Hi, I'm Chrysovalantis! </h2><br/>
 ⚡ Things I love besides coding:
 
 <ul style="list-style-type:disc;">
