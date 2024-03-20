@@ -18,12 +18,12 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,html,css,r,linkedin,instagram,gmail,bootstrap,pandas" />
+    <img src="https://skillicons.dev/icons?i=git,py,html,css,r,bootstrap,idea" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,postgres,mysql,vscode,java,visualstudio,idea,cs,apple" />
+    <img src="https://skillicons.dev/icons?i=github,postgres,mysql,vscode,java,visualstudio,cs" />
   </a>
 </p>
 
