@@ -3,8 +3,7 @@
 <html>
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
- ⚡ Things I love besides coding:<br/>
-
+ ⚡ Things I love besides coding:
 <ul style="list-style-type:disc;"><br>
   <li>Reading 📖</li>
   <li>Writing ✍</li>
