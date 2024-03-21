@@ -3,7 +3,8 @@
 <html>
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
- 📊 I'm a Data Analyst.<br>
+ 📊 I'm a Data Analyst from Greece.<br>
+    I love exploring new tech stack 💻 and leveraging them to build cool stuffs. 🛠️<br>
  🤝 I’m looking to collaborate on Python, SQL, Excel, and data visualization projects using Power BI  or Tableau.<br>
  📫 You can reach out to me via LinkedIn (www.linkedin.com/in/chrysovalantis-milionis-61456619a) <br> 
  ⚡ Things I love besides coding:
