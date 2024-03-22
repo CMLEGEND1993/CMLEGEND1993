@@ -57,7 +57,5 @@
 
 <h2 align="center">My stats ⭐ </h2>
 
-<div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMLEGEND1993&layout=compact&&langs_count=8"/>
-</div>
+| <a href="https://github.com/CMLEGEND1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/CMLEGEND1993/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMLEGEND1993&layout=compact&theme=buefy&hide_border=true" /></a> |
+
