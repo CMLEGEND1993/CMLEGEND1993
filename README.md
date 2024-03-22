@@ -8,7 +8,7 @@
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🌍 I'm mostly active within the data community.<br>
  ⚙️ I use daily: Python, Tableau, Power BI, SQL and Excel.<br>
- 💬 Ask me about Python, Tableau, Power BI, SQL and Excel. <br>
+ 💬 Ask me about Python, Tableau, Power BI, SQL or Excel. <br>
  📚 I'm currently learning about data analytics from [Coursera](https://www.coursera.org/), [Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/) and [Kaggle](https://www.kaggle.com/). <br>
  🤝 I’m looking to collaborate on Python, SQL, Excel, and data visualization projects using Power BI  or Tableau.<br>
  ❤️ Support me and follow me in social media.<br> 
