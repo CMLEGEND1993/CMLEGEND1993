@@ -19,6 +19,14 @@
 </ul>  
 </body>
 </html>
+## Links -  📫 Connecting with me::
+
+<p align="center">
+ <!-- <a href="mailto:nguyenthanhjt@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a> -->
+  <a href="in/chrysovalantis-milionis-61456619a"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+ <!-- <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a> -->
+  <!-- <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a> -->
+</p>
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
