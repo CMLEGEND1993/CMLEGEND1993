@@ -24,7 +24,7 @@
   
  </body>
 </html>
-<h2 align="center">📫 Connecting with me:</h2>
+<h2 align="center">📫 Connect with me:</h2>
 <p align="center">
   
   <a href="https://www.linkedin.com/in/chrysovalantis-milionis-61456619a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
