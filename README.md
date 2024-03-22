@@ -3,7 +3,8 @@
 <html>
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
- <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="coding" width="300" src="[![image](https://github.com/CMLEGEND1993/CMLEGEND1993/assets/111981917/1a79c510-a442-429e-8a6b-86b0b1b7cb8b](https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966))
+">
 
  📊 I'm a Data Analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
