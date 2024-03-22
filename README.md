@@ -58,8 +58,8 @@
 <h2 align="center">My stats ⭐ </h2>
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMLEGEND1993&layout=compact&&langs_count=8"/>
 </div>
 
 
