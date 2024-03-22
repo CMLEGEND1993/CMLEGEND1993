@@ -19,6 +19,12 @@
 </body>
 </html>
 
+<div align="center">
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/chrysovalantis-milionis-61456619a) &nbsp;
+
+</div>
+
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
 <p align="center">
