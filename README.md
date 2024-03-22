@@ -19,6 +19,11 @@
 </ul>  
 </body>
 </html>
+<p align="center">
+  
+  <a href="https://www.linkedin.com/in/chrysovalantis-milionis-61456619a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
+</p>
 
 <h2 align="center">🛠 Languages and Tools </h2>
 <br/>
