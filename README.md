@@ -59,10 +59,6 @@
 
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&show_icons=true&theme=transparent"/>
- 
-<a href="https://github.com/CMLEGEND1993/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CMLEGEND1993&layout=compact&langs_count=8&card_width=320" />
-</a>
 </div>
 
 
