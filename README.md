@@ -7,6 +7,7 @@
  📊 I'm a data analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🌍 I'm mostly active within the data community.<br>
+ ⚙️ I use daily: Python, Tableau, Power BI, SQL, Excel.<br>
  🤝 I’m looking to collaborate on Python, SQL, Excel, and data visualization projects using Power BI  or Tableau.<br>
  📫 You can reach out to me via LinkedIn (www.linkedin.com/in/chrysovalantis-milionis-61456619a) <br> 
  ❤️ Support me and follow me in social media.<br> 
