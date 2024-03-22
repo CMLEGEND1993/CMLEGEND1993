@@ -29,6 +29,7 @@
   
   <a href="https://www.linkedin.com/in/chrysovalantis-milionis-61456619a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.instagram.com/chrysovalantis_milionis/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://twitter.com/Milionis_chry"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
 </p>
 
 <h2 align="center">🛠 Languages and Tools </h2>
