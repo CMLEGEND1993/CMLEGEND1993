@@ -3,7 +3,7 @@
 <html>
 <body>
 <h2> 👋 Hi, I'm Chrysovalantis! </h2>
- ,img align="right" alt="coding" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanimated-script&psig=AOvVaw27KPys3zF7GbNvPzAcAUBa&ust=1711196753734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODum-vuh4UDFQAAAAAdAAAAABAE"
+ <img align="right" alt="coding" width"40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanimated-script&psig=AOvVaw27KPys3zF7GbNvPzAcAUBa&ust=1711196753734000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODum-vuh4UDFQAAAAAdAAAAABAE">
  📊 I'm a Data Analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🤝 I’m looking to collaborate on Python, SQL, Excel, and data visualization projects using Power BI  or Tableau.<br>
