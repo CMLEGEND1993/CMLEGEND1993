@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=github,postgres,mysql,vscode,java,visualstudio,cs" />
   </a>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankajhatheanalyst&show_icons=true&locale=en&layout=compact" alt="priyankajhatheanalyst" /></p>
 
 
 
