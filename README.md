@@ -2,7 +2,7 @@
 
 <html>
 <body>
-<h2> 👋 Hi, I'm Chrysovalantis! </h2>
+<h2 align="center"> 👋 Hi, I'm Chrysovalantis! </h2>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
  📊 I'm a data analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
@@ -28,7 +28,7 @@
 <p align="center">
   
   <a href="https://www.linkedin.com/in/chrysovalantis-milionis-61456619a/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  
+  <a href="https://www.instagram.com/chrysovalantis_milionis/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
 </p>
 
 <h2 align="center">🛠 Languages and Tools </h2>
