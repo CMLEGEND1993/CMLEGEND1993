@@ -4,7 +4,7 @@
 <body>
 <h2 align="center"> 👋 Hi, I'm Chrysovalantis! </h2>
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 📊 I'm a data analyst from Greece🇬🇷.<br>
+ 📊 I'm a data analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🌍 I'm mostly active within the data community.<br>
  ⚙️ I use daily: Python, Tableau, Power BI, SQL and Excel.<br>
