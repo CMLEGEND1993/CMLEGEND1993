@@ -35,6 +35,8 @@
   <a href="https://www.facebook.com/profile.php?id=100009143121338"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
   <a href="https://gr.pinterest.com/c_milionis/"><img src="https://img.icons8.com/color/96/000000/pinterest.png" alt="pinterest"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+    <a href="https://www.youtube.com/channel/UCDweIoR6zZeUCqEIxqImiFA"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
+
   
 </p>
 
