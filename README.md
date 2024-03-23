@@ -55,11 +55,3 @@
   
   <br/><br/><br/>
 </div>
-
-<h2 align="center">My stats ⭐ </h2>
-
-<div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&show_icons=true&theme=transparent"/>
-</div>
-
-
