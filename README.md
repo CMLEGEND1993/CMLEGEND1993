@@ -58,3 +58,15 @@
   
   <br/><br/><br/>
 </div>
+
+<!-- Your github readme stats
+You can use this api: https://github.com/CMLEGEND1993/github-readme-stats
+-->
+<p>
+  <a href="https://github.com/CMLEGEND1993/">
+    <img width="55%" align="right" alt="CMLEGEND1993 github stats" src="https://github-readme-stats.vercel.app/api?username=CMLEGEND1993&theme=default&hide_border=false&include_all_commits=true&count_private=false" />
+  </a>
+ 
+  <a>
+    <img width="55%" align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CMLEGEND1993&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </a>
