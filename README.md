@@ -3,15 +3,16 @@
 <html>
 <body>
 <h2 align="center"> 👋 Hi, I'm Chrysovalantis! </h2>
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  📊 I'm a data analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🌍 I'm mostly active within the data community.<br>
  ⚙️ I use daily: Python, Tableau, Power BI, SQL and Excel.<br>
- 💬 Ask me about Python, Tableau, Power BI, SQL or Excel. <br>
+ 💬 Ask me about data analysis. <br>
  📚 I'm currently learning about data analytics from [Coursera](https://www.coursera.org/), [Youtube](https://www.youtube.com/), [Wikipedia](https://en.wikipedia.org/) and [Kaggle](https://www.kaggle.com/). <br>
  🤝 I’m looking to collaborate on Python, SQL, Excel, and data visualization projects using Power BI  or Tableau.<br>
- ❤️ Support me and follow me in social media.<br> 
+ ❤️ Support me and follow me in social media.<br>
+ 😂 Fun fact I am funny.<br>
  ⚡ Things I love besides coding:
 <ul style="list-style-type:disc;">
   <li>Reading 📖</li>
