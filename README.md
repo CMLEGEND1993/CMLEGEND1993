@@ -64,7 +64,7 @@
   <br/><br/><br/>
 </div>
 
-<!--25-->
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
 
-<img align="center" alt="Coding" width="999" src="https://github.com/victor0089/victor0089/blob/main/3.jpg">
+  
