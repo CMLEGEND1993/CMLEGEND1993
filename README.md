@@ -3,8 +3,9 @@
 <html>
 <body>
 <h2 align="center"> 👋 Hi, I'm Chrysovalantis! </h2>
- <h2 align="left"> ## 🚀 About Me</h2>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+ <h2 align="left"> 🚀 About Me</h2>
+ 
  📊 I'm a data analyst from Greece.<br>
  💻 I love exploring new tech stack and leveraging them to build cool stuffs. 🛠️<br>
  🌍 I'm mostly active within the data community.<br>
