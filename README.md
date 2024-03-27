@@ -27,7 +27,6 @@
  <body><br>
   
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="left" width="100" height="auto" />
   
  </body>
 </html>
