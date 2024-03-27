@@ -58,8 +58,8 @@
 </p>
 
 <h2 align="center">💻 OS:</h2>
-    <a href="https://www.apple.com/macos/" tager="_blank"> <img src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png" alt="" width="96" height="40"/> </a>
-    <a href="https://www.microsoft.com/vi-vn/windows" tager="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="" width="96" height="40"/> </a>
+    <a href="https://www.apple.com/macos/" tager="_blank"> <img src="https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png" alt="" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/vi-vn/windows" tager="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="" width="40" height="40"/> </a>
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
